@@ -5,7 +5,7 @@
 ## 目录
 
 - [MCP (Model Context Protocol) - Agent连接外部世界](#mcp-model-context-protocol---agent连接外部世界)
-  - [官方协议](#官方协议)
+  - [协议](#协议)
   - [SDK/库](#sdk库)
   - [工具](#工具)
   - [应用](#应用)
@@ -24,7 +24,7 @@
 
 MCP 是连接Agent与外部世界的标准协议，让Agent能够访问文件系统、数据库、API等资源。
 
-### 官方协议
+### 协议
 
 - [Model Context Protocol](https://modelcontextprotocol.io) - Anthropic 官方的 MCP 协议文档和规范
 - [mcp](https://github.com/modelcontextprotocol/mcp) - MCP 官方实现和 SDK
