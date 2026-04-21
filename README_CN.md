@@ -52,8 +52,9 @@ Agent之间的通信协议、协作框架和协调工具。
 
 ### 协作协议
 
-- [Agent Communication Protocol (ACP)](https://github.com/agent-communication-protocol/acp) - Agent间通信协议
-- [Multi-Agent System Protocol (MASP)](https://github.com/multi-agent-system/masp) - 多Agent系统协议
+- [Agent2Agent (A2A)](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) 是一个开放协议，支持不透明代理应用程序之间的通信和互操作性。
+- [Agent2Agent (A2A) Protocol](https://a2a-protocol.org/latest/) - 一个开放协议，支持不透明代理应用程序之间的通信和互操作性。
+
 
 ### 多Agent框架
 
