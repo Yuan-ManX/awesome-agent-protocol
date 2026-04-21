@@ -36,7 +36,7 @@ English / [简体中文](README_CN.md)
 
 MCP is a standard protocol for connecting Agents to the external world, enabling Agents to access file systems, databases, APIs, and other resources.
 
-### Official Protocols
+### MCP Protocols
 
 - [Model Context Protocol](https://modelcontextprotocol.io) - Official MCP protocol documentation and specification by Anthropic
 - [mcp](https://github.com/modelcontextprotocol/mcp) - Official MCP implementation and SDK
@@ -62,7 +62,7 @@ MCP is a standard protocol for connecting Agents to the external world, enabling
 
 Communication protocols, collaboration frameworks, and coordination tools between Agents.
 
-### Collaboration Protocols
+### A2A Protocols
 
 - [Agent Communication Protocol (ACP)](https://github.com/agent-communication-protocol/acp) - Agent-to-Agent communication protocol
 - [Multi-Agent System Protocol (MASP)](https://github.com/multi-agent-system/masp) - Multi-Agent system protocol
@@ -86,7 +86,7 @@ Communication protocols, collaboration frameworks, and coordination tools betwee
 
 Client protocols and applications for Agent interaction with humans.
 
-### Client Protocols
+### ACP Protocols
 
 - [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview) - OpenAI Assistants API
 - [Anthropic Messages API](https://docs.anthropic.com/claude/reference/messages-post) - Anthropic Messages API
