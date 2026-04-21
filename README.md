@@ -4,11 +4,9 @@
 <img width="1000px" alt="Awesome Agent Protocol" src="assets/Awesome Agent Protocol.png">
 </p>
 
-# Awesome Agent Protocol
+# Awesome Agent Protocol 🤖-🤖
 
-AI Agent Protocol
-
-A curated list of open source projects around three core directions of Agent technology: Agent connecting to the external world (MCP), Agent-to-Agent collaboration (A2A), and Agent interacting with humans (ACP)
+AI Agent Protocol: Three Core Pillars of Agent Technology – Agent connecting to the external world (MCP), Agent-to-Agent collaboration (A2A), and Agent interacting with humans (ACP).
 
 English / [简体中文](README_CN.md)
 
