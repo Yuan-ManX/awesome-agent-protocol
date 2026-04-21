@@ -47,4 +47,4 @@ Contributions welcome! Please see the [Contributing Guide](CONTRIBUTING.md) for 
 
 ## License
 
-[CC0-1.0](LICENSE)
+[CC0-1.0](license)
