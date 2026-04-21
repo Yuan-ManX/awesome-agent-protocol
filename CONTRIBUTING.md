@@ -46,10 +46,21 @@ Thank you for your interest in the Awesome Agent Protocol project! We welcome co
 ## Category Descriptions
 
 ### MCP (Model Context Protocol)
+- **Official Protocols**: MCP official specifications and documentation
+- **SDKs/Libraries**: MCP development toolkits for various languages
+- **Tools**: MCP-related tools
+- **Applications**: Applications with MCP support
 
 ### A2A (Agent-to-Agent)
+- **Collaboration Protocols**: Agent-to-Agent communication protocols
+- **Multi-Agent Frameworks**: Multi-agent development frameworks
+- **Coordination Tools**: Coordination and monitoring tools
 
 ### ACP (Agent Client Protocol)
+- **Client Protocols**: Client API protocols
+- **Desktop Apps**: Desktop client applications
+- **Web Apps**: Web applications
+- **Mobile Apps**: Mobile applications
 
 ## Code of Conduct
 
