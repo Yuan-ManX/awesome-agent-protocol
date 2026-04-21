@@ -30,7 +30,6 @@ English / [简体中文](README_CN.md)
   - [Desktop Apps](#desktop-apps)
   - [Web Apps](#web-apps)
   - [Mobile Apps](#mobile-apps)
-- [Related Lists](#related-lists)
 
 
 ## MCP (Model Context Protocol) - Agent Connecting to External World
