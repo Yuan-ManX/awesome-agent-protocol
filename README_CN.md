@@ -1,6 +1,6 @@
 # Awesome Agent Protocol
 
-> 开源项目列表，围绕Agent技术的三个核心方向：Agent连接外部世界（MCP）、Agent之间协作（A2A）、Agent与人类交互（ACP）
+> AI 智能体协议，围绕Agent技术的三个核心方向：Agent连接外部世界（MCP）、Agent之间协作（A2A）、Agent与人类交互（ACP）
 
 ## 目录
 
