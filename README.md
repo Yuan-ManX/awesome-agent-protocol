@@ -32,6 +32,7 @@ English / [简体中文](README_CN.md)
   - [Mobile Apps](#mobile-apps)
 - [Related Lists](#related-lists)
 
+
 ## MCP (Model Context Protocol) - Agent Connecting to External World
 
 MCP is a standard protocol for connecting Agents to the external world, enabling Agents to access file systems, databases, APIs, and other resources.
@@ -58,14 +59,15 @@ MCP is a standard protocol for connecting Agents to the external world, enabling
 - [openEuler Intelligence](https://github.com/openeuler-mirror/openEuler-Intelligence) - Intelligent LLM platform with MCP service management
 - [Operit AI](https://github.com/operit-ai/operit) - Android AI assistant with full MCP support
 
+
 ## A2A (Agent-to-Agent) - Agent Collaboration
 
 Communication protocols, collaboration frameworks, and coordination tools between Agents.
 
 ### A2A Protocols
 
-- [Agent Communication Protocol (ACP)](https://github.com/agent-communication-protocol/acp) - Agent-to-Agent communication protocol
-- [Multi-Agent System Protocol (MASP)](https://github.com/multi-agent-system/masp) - Multi-Agent system protocol
+- [Agent2Agent (A2A)](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+- [Agent2Agent (A2A) Protocol](https://a2a-protocol.org/latest/) - An open protocol enabling communication and interoperability between opaque agentic applications.
 
 ### Multi-Agent Frameworks
 
@@ -81,6 +83,7 @@ Communication protocols, collaboration frameworks, and coordination tools betwee
 - [AgentOps](https://github.com/AgentOps-AI/agentops) - Agent observability and debugging tool
 - [LangSmith](https://www.langchain.com/langsmith) - LangChain's Agent debugging platform
 - [AgentBoard](https://github.com/agentboard/agentboard) - Multi-agent system monitoring dashboard
+
 
 ## ACP (Agent Client Protocol) - Agent Client Protocol
 
