@@ -90,8 +90,7 @@ Client protocols and applications for Agent interaction with humans.
 
 ### ACP Protocols
 
-- [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview) - OpenAI Assistants API
-- [Anthropic Messages API](https://docs.anthropic.com/claude/reference/messages-post) - Anthropic Messages API
+- [acpx](hhttps://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions.
 
 ### Desktop Apps
 
