@@ -90,7 +90,8 @@ Client protocols and applications for Agent interaction with humans.
 
 ### ACP Protocols
 
-- [acpx](hhttps://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions.
+- [acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions.
+
 
 ### Desktop Apps
 
