@@ -51,6 +51,7 @@ MCP is a standard protocol for connecting Agents to the external world, enabling
 
 - [mcp-cli](https://github.com/modelcontextprotocol/cli) - MCP command-line tool
 - [mcp-inspector](https://github.com/modelcontextprotocol/inspector) - MCP server inspection tool
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for Solana AI agent wallets with x402 micropayment verification. Config: `{"url":"https://intel.twzrd.xyz/mcp"}`
 
 ### Applications
 
